@@ -307,14 +307,11 @@ Misinformation comes in many forms, including, [according to UNESCO](http://unes
 
 -   Satire and parody: no intent to cause harm but potential to fool
 
--   False connection: titles, images and/or captions don\'t support the
-    > content
+-   False connection: titles, images and/or captions don\'t support the content
 
--   Misleading content: misleading use of information to frame an issue
-    > or individual
+-   Misleading content: misleading use of information to frame an issue or individual
 
--   False context: when genuine content is re-shared with wrong
-    > information about the situation
+-   False context: when genuine content is re-shared with wrong information about the situation
 
 -   Imposter content: impersonating genuine sources
 
@@ -457,13 +454,11 @@ We start by looking at the study itself:
 
 -   Where is it published?
 
--   Is it peer-reviewed? (That means other experts in the field have
-    > evaluated the methods and results).
+-   Is it peer-reviewed? (That means other experts in the field have evaluated the methods and results).
 
 -   What was the sample size?
 
--   Read the study abstract and analyze what the researchers are saying.
-    > Are the news headlines exaggerating or overstating the claims?
+-   Read the study abstract and analyze what the researchers are saying. Are the news headlines exaggerating or overstating the claims?
 
 We look for experts in the field who are fact-checking or responding to
 the study. We hope that by presenting alternative viewpoints, from
@@ -797,12 +792,9 @@ on some exceptions:
 
 -   Corporations, brand names and proper names that are pluralized
 
--   Words ending with an "s" sound before a word that begins with an "s"
-    > take an apostrophe and an "s" (for appearance\'s sake, but for
-    > goodness' sake)
+-   Words ending with an "s" sound before a word that begins with an "s" take an apostrophe and an "s" (for appearance\'s sake, but for goodness' sake)
 
--   Don't use an apostrophe when a word is descriptive rather than
-    > possessive (teachers college, writers room)
+-   Don't use an apostrophe when a word is descriptive rather than possessive (teachers college, writers room)
 
 -   Personal pronouns never take apostrophes (hers, his)
 
