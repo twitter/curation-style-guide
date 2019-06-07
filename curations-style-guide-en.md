@@ -165,7 +165,7 @@ the Tweet, any media, and the avatar and username of the poster.
     resonate globally. It is meant to be a guide only: We may change the guide
     or deviate from it, from time to time.
 
-#### The Golden Rule
+### The Golden Rule
 
 **We speak in the language of Twitter.**
 
@@ -173,7 +173,7 @@ For example, when we're adding emoji to the end of our sentences or
 questioning whether percent is one word or two, we strive to stay true
 to the conversation on the platform.
 
-#### Ad hominem
+### Ad hominem
 
 Ad hominem attacks criticize a person, rather than their idea or
 position in an argument.
@@ -186,13 +186,13 @@ We avoid including Tweets attacking an individual or their character
 unless they are integral to the conversation as it is occurring on
 Twitter and can be placed appropriately in context.
 
-#### Abbreviations
+### Abbreviations
 
 When shortening country and organization names, we do not use periods.
 This reflects the common usage on Twitter. So it's US and UK, not U.S.
 and U.K.
 
-#### Active shooter reports
+### Active shooter reports
 
 The [Department of Homeland Security defines](https://www.dhs.gov/xlibrary/assets/active_shooter_booklet.pdf)
 an active shooter as "an individual actively engaged in killing or
@@ -214,7 +214,7 @@ We should avoid using the term "active shooter" unless police confirm an
 active incident. Instead, such reports should be described as "possible
 shootings" or "police responding to reports of a gunman."
 
-#### Annotations
+### Annotations
 
 Annotations provide context, background, biographical notes,
 translations, or subheadings to Moments. They can also be used to
@@ -233,7 +233,7 @@ keep it short.
 Annotations used as headings should follow the same style as titles,
 while annotation body text should be written in sentences.
 
-#### Attribution
+### Attribution
 
 Everything stated in a Moment title, description, and Tweet should also
 appear within the Moment.
@@ -248,7 +248,7 @@ Instead of using "reportedly," "according to sources" or "it is believed
 to be" in our Moments, it is preferable to attribute the information to
 the source.
 
-#### Bodily functions
+### Bodily functions
 
 We should not curate just to gross people out. Accordingly, we shouldn't
 create Moments just focused on bodily functions, especially when it
@@ -258,12 +258,12 @@ If we do make a Moment like this, please consider the context in
 choosing our words and tone, and do not ~~to~~ feature the gross content
 in the cover image.
 
-#### Brands
+### Brands
 
 We avoid including content from brand accounts in Moments unless we
 think it's integral to the conversation.
 
-#### Clickbait
+### Clickbait
 
 Curation helps give people the context and narrative they need to
 understand the things that matter on Twitter. So we want to make sure
@@ -275,7 +275,7 @@ without veering into clickbait. Clickbait intentionally withholds
 information to mislead people, or poses questions that force them to
 click.
 
-#### Collective nouns
+### Collective nouns
 
 Names of businesses, political parties, and groups are singular and we
 treat them as such, i.e. Company X released its earnings Wednesday.
@@ -287,7 +287,7 @@ is here*. When it's difficult to write around it, we default to the way
 people on Twitter typically speak (i.e., The band (with a plural name)
 are dropping a Canadian tour).
 
-#### Crime
+### Crime
 
 When covering conversations about crime, we should refrain from putting
 photos of the suspect or accused on the cover, particularly when the
@@ -298,7 +298,7 @@ We should avoid using the names and images of alleged attackers
 prominently in our titles, descriptions and covers. Our Moments should
 prioritize those affected by the event.
 
-#### Curating about misinformation
+### Curating about misinformation
 
 Our mission is to provide quality content and context to help people
 judge the accuracy of the information that they're seeing.
@@ -343,7 +343,7 @@ as these keywords may be strategically created to drive people to
 discover more misinformation. You can learn more about that phenomenon, with
 the example of "crisis actors," from [the Data & Society Research Institute](https://points.datasociety.net/media-manipulation-strategic-amplification-and-responsible-journalism-95f4d611f462).
 
-#### Dates
+### Dates
 
 We should not use the terms *yesterday*, *today,* or *tomorrow* in
 titles or descriptions because it may be Thursday in the United States,
@@ -361,7 +361,7 @@ the day. Example: May 12, September 12.
 Please style decades as the numeral followed by an "s," such as the 60s,
 70s, 80s or 90s.
 
-#### Developing news
+### Developing news
 
 In breaking and developing news situations, we should be clear about the
 degree to which information has been confirmed, along with the sources
@@ -370,7 +370,7 @@ do not need to include "more to come," or "stay here for updates" in our
 descriptions, but we should update the title and description as the
 situation develops.
 
-#### Disabilities and illnesses
+### Disabilities and illnesses
 
 We avoid language that appears to define people by their condition or
 illness. For example, use "people with disabilities," rather than
@@ -393,7 +393,7 @@ For more, please visit the [National Center on Disability and Journalism's
 style guide](http://ncdj.org/style-guide/), which has an alphabetized list of
 terms and considerations.
 
-#### Disputed claims
+### Disputed claims
 
 Our role is to help people see as much context as possible around
 information gaining popularity on Twitter. If popular, high-profile
@@ -402,14 +402,14 @@ number of sources, we should clearly cite those sources in the context
 that we provide. To every extent possible, we should avoid repeating
 disputed information in the title.
 
-#### Emoji
+### Emoji
 
 We use emoji as emphasis or to replace emotion in our titles and
 descriptions, not to replace words. Keep emoji at the end of titles and
 sentences, as a lot of people on Twitter do. We should not use emoji for
 serious or potentially sensitive topics, or for breaking news.
 
-#### Esports
+### Esports
 
 We consider esports (lowercase e, except when styled differently in an
 event's proper name) a catchall term for competitive multiplayer video
@@ -425,7 +425,7 @@ fighting games.
 We give video game titles take the same treatment as [movie and book titles](#books-films-shows-and-albums), with title case but
 no italics or quotation marks.
 
-#### Gendered terms
+### Gendered terms
 
 When possible, our preference is to use the non-gendered term to
 describe a person's job or role. For example, police officer instead of
@@ -435,7 +435,7 @@ For celebrities, when a preference isn't stated, we default to "actor"
 or "singer" for both genders. To quote Whoopi Goldberg: "An actress can
 only play a woman. I'm an actor -- I can play anything."
 
-#### Hashtags
+### Hashtags
 
 We should not include hashtags in Moment titles, as they're not
 clickable for readers.
@@ -443,7 +443,7 @@ clickable for readers.
 Words within hashtags may be capped, to improve readability within a
 description or Tweet (i.e. \#StarWarsDay vs \#starwarsday).
 
-#### Health and science studies
+### Health and science studies
 
 In our view, a good health or science Moment:
 
@@ -469,14 +469,14 @@ We look for experts in the field who are fact-checking or responding to
 the study. We hope that by presenting alternative viewpoints, from
 experts, we help our readers draw their own conclusions.
 
-#### Homelessness
+### Homelessness
 
 We aim to use [people-first language](https://www.usich.gov/news/people-experience-homelessness-they-arent-defined-by-it/)
 in our curation to avoid labelling or inviting judgement on people based
 on their situation. In lieu of calling people homeless, we should use
 "people experiencing homelessness."
 
-#### Identity 
+### Identity 
 
 When describing people and groups, we defer to the way they
 self-identify. We avoid generalizing or guessing people's identities,
@@ -497,7 +497,7 @@ We also keep in mind that sharing an idea that appeals to a certain
 group does not necessarily mean an individual is part of that group or
 holds more of that group's views.
 
-#### Race and ethnicity
+### Race and ethnicity
 
 In most conversations we curate, we identify people by nationality,
 rather than race or ethnicity. We should not use these identifications
@@ -521,7 +521,7 @@ conversations about race we believe it is also important to be sensitive
 to the voices selected, and the communities they represent, the overall
 framing, and the choice of images.
 
-#### Immigration status 
+### Immigration status 
 
 Following the lead of [the Associated Press](https://blog.ap.org/announcements/illegal-immigrant-no-more)
 and others, we should only use the term "illegal" to describe actions
@@ -551,7 +551,7 @@ Act.
 We may curate Tweets that do not follow our preferred terms, but we
 should exercise caution and keep these guidelines in mind.
 
-#### Impartiality
+### Impartiality
 
 *"Impartiality is not the same as objectivity or balance or neutrality,
 although it contains elements of all three. Nor is it the same as simply
@@ -572,7 +572,7 @@ Practices](http://www.cbc.radio-canada.ca/en/reporting-to-canadians/acts-and-pol
 respectfully, taking into account their relevance to the debate and how
 widely held these views are."
 
-#### Indigenous populations in Canada, the US, and Australia
+### Indigenous populations in Canada, the US, and Australia
 
 Indigenous is the preferred term in Canada and Australia for those whose
 roots precede European colonialism. In the US, use Native American, or
@@ -603,7 +603,7 @@ person. The family or community will release a statement indicating
 whether the deceased can be identified. If the deceased cannot be
 identified, we should explain why in the description or an annotation.
 
-#### Islamic State
+### Islamic State
 
 This group goes by many names, including IS, ISIS, ISIL, and Daesh. We
 follow the [BBC's
@@ -611,7 +611,7 @@ convention](http://www.bbc.com/news/world-middle-east-27994277)
 of referring to it as "the Islamic State group" or "self-styled Islamic
 State" in the first instance and IS for subsequent mentions and titles.
 
-#### LGBTQ
+### LGBTQ
 
 LGBTQ, which stands for lesbian, gay, bisexual, transgender, queer or
 questioning, is our preferred term. We avoid using less common
@@ -639,7 +639,7 @@ place of sexual preference, and LGBTQ people should be described as
 We avoid defamatory terms about the LGBTQ community in any display copy
 or selected Tweets unless they are part of a newsworthy direct quote.
 
-##### The transgender community
+### The transgender community
 
 Transgender persons have a gender identity that differs from the sex
 they were assigned at birth. It's an umbrella term that can include
@@ -685,7 +685,7 @@ sex."
 Transgender people can have any sexual orientation. We should not assume
 a link between their gender and their sexuality.
 
-#### Memes
+### Memes
 
 Memes are images, video or text that rapidly take on a life of their
 own, repeating and trending on the platform. Some become icons (Salt
@@ -696,7 +696,7 @@ meme](https://www.smithsonianmag.com/arts-culture/what-defines-a-meme-1904778/).
 We should be seeing a critical mass of repeated use, with a common
 thread between the posts, before we label something a meme.
 
-#### Money
+### Money
 
 When flagging monetary values, we should lead with the currency of the
 originating country, for example, British Pounds for Moments occurring
@@ -704,9 +704,9 @@ in the United Kingdom. When targeted to other countries, please also
 convert the dollar values into USD, which should be indicated as \$X
 (US).
 
-#### Names and titles
+### Names and titles
 
-##### Books, films, shows, and albums
+### Books, films, shows, and albums
 
 We capitalize the titles of books, films, albums, songs, and TV shows
 and do not put them in quotation marks. We reserve double quotes for
@@ -716,7 +716,7 @@ We capitalize references to TV seasons, for example, "There were many
 dragons in the Season 7 finale." We write the number of the season as a
 numeral.
 
-##### Handles
+### Handles
 
 When including a Twitter handle in a description, we should include the
 person's real name if it does not match their username.
@@ -731,18 +731,18 @@ Tweet or sentence, consider the @ symbol silent. For example, instead of
 *Player X signs a new contract \@team* it should be *Player X signs a
 new contract with the \@team*.
 
-##### Proper names
+### Proper names
 
 We respect what people, teams, and organizations call themselves. We do
 not remove hyphens or accents. This also applies to names translated
 from other languages.
 
-##### Titles
+### Titles
 
 We do not capitalize political titles unless they precede a name. The
 Queen is always capped, as is the Pope.
 
-#### Numbers
+### Numbers
 
 We write out one through nine, while 10 and above are written as
 numerals. Please avoid starting a sentence with a number, except in
@@ -753,7 +753,7 @@ Sports scores are always written in numerals, as are temperatures.
 For ages, use the numeral, such as *the girl is 15*, and use hyphens for
 ages used as adjectives, i.e. *the 5-year-old boy*.
 
-#### Profanity
+### Profanity
 
 We avoid profanity in our titles, descriptions, annotations, and Tweets
 from our \@Moments accounts. Tweets used in Moments may contain
@@ -763,9 +763,9 @@ profanity. For example, a common phrase in Australia may be considered
 offensive in the US, or vice versa, and therefore should not be included
 in curation across markets.
 
-#### Punctuation
+### Punctuation
 
-##### Brackets and quotation marks
+### Brackets and quotation marks
 
 If there is a full sentence inside the parentheses or quote, the
 period/full stop should be inside. If only a sentence fragment or
@@ -775,18 +775,18 @@ markets. (The UK and Canada spell travelled with two Ls.)* versus *There
 are punctuation differences between markets (the UK and Canada spell
 travelled with two Ls).*
 
-##### Ellipses
+### Ellipses
 
 We avoid using ellipses. If we do need to use one in a description, for
 example when abbreviating a quote, use a space on either side of the
 ellipsis.
 
-##### Hyphens
+### Hyphens
 
 Hyphens (-) are used to connect words such as ages, the 10-year-old boy,
 or to modify a term, a 15-point game.
 
-##### Possessives
+### Possessives
 
 We default to 's for all singular possessive nouns (Chris's), but follow
 [Buzzfeed's
@@ -806,7 +806,7 @@ on some exceptions:
 
 -   Personal pronouns never take apostrophes (hers, his)
 
-#### Regional differences
+### Regional differences
 
 We strive to make our Moments as globally accessible as possible. We try
 to avoid words in titles and descriptions that have different spellings
@@ -833,7 +833,7 @@ mean the sovereign state, but in cases where both countries are
 referenced and there may be confusion, including Brexit coverage, we can
 refer to the independent nation as the Republic of Ireland.
 
-#### Sexual assault and domestic violence
+### Sexual assault and domestic violence
 
 When dealing with allegations of sexual assault and domestic violence,
 we prefer to use "survivor" or "alleged victim" rather than "victim" or
@@ -860,12 +860,12 @@ tag, when appropriate.\
 \
 For further reading, please see [Level Up's guidance on covering domestic violence](https://www.welevelup.org/media-guidelines) and [the Dart Center's guide to reporting on sexual violence](https://dartcenter.org/content/reporting-on-sexual-violence#.UvAJXXdN5mk).
 
-#### Sexual imagery and language
+### Sexual imagery and language
 
 We avoid the use of sexual language, including sexual anatomy, and
 gratuitous imagery in our titles, descriptions, and covers.
 
-#### Single-source Moments
+### Single-source Moments
 
 We should only curate our own Moment based on a single piece of
 reporting or media (such as an article, video or podcast) if it is
@@ -875,7 +875,7 @@ politicians, athletes, and other public figures.\
 \
 For these Moments, include attribution in the title.
 
-#### Spoilers
+### Spoilers
 
 While people on Twitter react in real time, we don't want to spoil
 anyone's experience watching a show or movie. We avoid giving away major
@@ -886,7 +886,7 @@ SPOILERS 🚨.
 Please check release dates in other markets before targeting Moments
 that could contain spoilers.
 
-#### Sports
+### Sports
 
 We speak to the fans in the language they use. For major sports events
 we should provide context, but for other sports coverage we may use team
@@ -899,14 +899,14 @@ part of a proper name such as the Western Conference Finals.
 
 Postseason is one word.
 
-##### Soccer/football
+### Soccer/football
 
 Soccer in the US and Canada is football in the UK. We try to write
 around this problem by using the name of the league. If it's about MLS
 it can default to soccer, whereas if it's occurring in the UK it should
 be called football.
 
-#### Suicide and self-harm
+### Suicide and self-harm
 
 [Mental health advocates recommend](https://www.diversitystyleguide.com/glossary/suicide/)
 referring to deaths by suicide as \"died by suicide,\" rather than using
@@ -914,7 +914,7 @@ terms like \"committed suicide\" or \"victim of suicide.\" The
 [American Foundation for Suicide Prevention offers further guidance](https://chapterland.org/wp-content/uploads/sites/13/2018/06/13763_TopTenNotes_Reporting_on_Suicide_Flyer_m1.pdf)
 on reporting on suicide.
 
-#### Terrorism
+### Terrorism
 
 We should not label anything as a terror attack or terrorism until the
 country's responsible investigative unit, such as the police or
@@ -922,7 +922,7 @@ government, officially declares it as such. In the event of an unclear,
 developing breaking news event, please refrain from using "terror" or
 "attack" and instead use "incident" or "event."
 
-#### Titles and descriptions
+### Titles and descriptions
 
 Titles and descriptions should explain the nature and tone of the
 conversation, and provide context to make it relevant to a wide
@@ -955,7 +955,7 @@ If we use a name or phrase in a title, avoid repeating it in the
 description. We should not repeat Tweets, or other Tweet content, in the
 title and description.
 
-#### Translations
+### Translations
 
 When translating text, keep the meaning as close as possible to the
 original, while also making the translated text easy to read and
@@ -974,14 +974,14 @@ agencies and journalists.
 We should not include words we do not recognize from foreign languages
 in our Moments.
 
-#### Tweet is the word
+### Tweet is the word
 
 We always capitalize the mark Tweet, regardless of how it is used.
 Retweet is also always capitalized.
 
 We avoid using "Tweetstorm" or "thread" in Moments display copy.
 
-#### Verbs
+### Verbs
 
 Nouns and verbs need to agree and use the correct tense. We use informal
 but correct language.
@@ -997,20 +997,20 @@ progressive verb tenses, e.g., *The prime minister has announced a trip
 to China* when we could say: *The prime minister announced a trip to
 China*.
 
-#### Weather
+### Weather
 
 A weather watch generally alerts the public to the possibility of
 extreme weather, while a warning means it is likely to occur. Please
 default to the language used by the national weather service in the
 affected region.
 
-##### Temperature
+### Temperature
 
 Temperatures get higher or lower, not warmer or cooler. Temperature
 figures are written as numerals. When targeting a Moment globally, we
 include both Fahrenheit and Celsius.
 
-##### Storms, hurricanes, and typhoons
+### Storms, hurricanes, and typhoons
 
 Storms are assigned a type based on the speed of winds and the location
 where they form. Hurricanes form in the North Atlantic Ocean and
@@ -1034,7 +1034,7 @@ storm or depression, it can be referred to by name or qualified as
 remnants, i.e. Residents clean up from Harvey flooding or Cities brace
 for remnants of Hurricane Maria.
 
-##### Earthquakes
+### Earthquakes
 
 Earthquakes are registered in magnitude and, according to AP style,
 should not include a hyphen, so it's a magnitude 5.9 quake or a 5.9
