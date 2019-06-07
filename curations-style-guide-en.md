@@ -1,133 +1,133 @@
 *Last updated: May 2019*
 
-[[The Golden Rule]{.underline}](#the-golden-rule)
+[[The Golden Rule]](#the-golden-rule)
 
-[[Ad hominem]{.underline}](#ad-hominem)
+[[Ad hominem]](#ad-hominem)
 
-[[Abbreviations]{.underline}](#abbreviations)
+[[Abbreviations]](#abbreviations)
 
-[[Active shooter reports]{.underline}](#active-shooter-reports)
+[[Active shooter reports]](#active-shooter-reports)
 
-[[Annotations]{.underline}](#annotations)
+[[Annotations]](#annotations)
 
-[[Attribution]{.underline}](#attribution)
+[[Attribution]](#attribution)
 
-[[Bodily functions]{.underline}](#bodily-functions)
+[[Bodily functions]](#bodily-functions)
 
-[[Brands]{.underline}](#brands)
+[[Brands]](#brands)
 
-[[Clickbait]{.underline}](#clickbait)
+[[Clickbait]](#clickbait)
 
-[[Collective nouns]{.underline}](#collective-nouns)
+[[Collective nouns]](#collective-nouns)
 
-[[Crime]{.underline}](#crime)
+[[Crime]](#crime)
 
 [[Curating about
-misinformation]{.underline}](#curating-about-misinformation)
+misinformation]](#curating-about-misinformation)
 
-[[Dates]{.underline}](#dates)
+[[Dates]](#dates)
 
-[[Developing news]{.underline}](#developing-news)
+[[Developing news]](#developing-news)
 
-[[Disabilities and illnesses]{.underline}](#disabilities-and-illnesses)
+[[Disabilities and illnesses]](#disabilities-and-illnesses)
 
-[[Disputed claims]{.underline}](#disputed-claims)
+[[Disputed claims]](#disputed-claims)
 
-[[Emoji]{.underline}](#emoji)
+[[Emoji]](#emoji)
 
-[[Esports]{.underline}](#esports)
+[[Esports]](#esports)
 
-[[Gendered terms]{.underline}](#gendered-terms)
+[[Gendered terms]](#gendered-terms)
 
-[[Hashtags]{.underline}](#hashtags)
+[[Hashtags]](#hashtags)
 
-[[Health and science studies]{.underline}](#health-and-science-studies)
+[[Health and science studies]](#health-and-science-studies)
 
-[[Homelessness]{.underline}](#homelessness)
+[[Homelessness]](#homelessness)
 
-[[Identity]{.underline}](#identity)
+[[Identity]](#identity)
 
-[[Race and ethnicity]{.underline}](#race-and-ethnicity)
+[[Race and ethnicity]](#race-and-ethnicity)
 
-[[Immigration status]{.underline}](#immigration-status)
+[[Immigration status]](#immigration-status)
 
-[[Impartiality]{.underline}](#impartiality)
+[[Impartiality]](#impartiality)
 
 [[Indigenous populations in Canada, the US, and
-Australia]{.underline}](#indigenous-populations-in-canada-the-us-and-australia)
+Australia]](#indigenous-populations-in-canada-the-us-and-australia)
 
-[[Islamic State]{.underline}](#islamic-state)
+[[Islamic State]](#islamic-state)
 
-[[LGBTQ]{.underline}](#lgbtq)
+[[LGBTQ]](#lgbtq)
 
-> [[The transgender community]{.underline}](#the-transgender-community)
+> [[The transgender community]](#the-transgender-community)
 
-[[Memes]{.underline}](#memes)
+[[Memes]](#memes)
 
-[[Money]{.underline}](#money)
+[[Money]](#money)
 
-[[Names and titles]{.underline}](#names-and-titles)
+[[Names and titles]](#names-and-titles)
 
 > [[Books, films, shows, and
-> albums]{.underline}](#books-films-shows-and-albums)
+> albums]](#books-films-shows-and-albums)
 >
-> [[Handles]{.underline}](#handles)
+> [[Handles]](#handles)
 >
-> [[Proper names]{.underline}](#proper-names)
+> [[Proper names]](#proper-names)
 >
-> [[Titles]{.underline}](#titles)
+> [[Titles]](#titles)
 
-[[Numbers]{.underline}](#numbers)
+[[Numbers]](#numbers)
 
-[[Profanity]{.underline}](#profanity)
+[[Profanity]](#profanity)
 
-[[Punctuation]{.underline}](#punctuation)
+[[Punctuation]](#punctuation)
 
 > [[Brackets and quotation
-> marks]{.underline}](#brackets-and-quotation-marks)
+> marks]](#brackets-and-quotation-marks)
 >
-> [[Ellipses]{.underline}](#ellipses)
+> [[Ellipses]](#ellipses)
 >
-> [[Hyphens]{.underline}](#hyphens)
+> [[Hyphens]](#hyphens)
 >
-> [[Possessives]{.underline}](#possessives)
+> [[Possessives]](#possessives)
 
-[[Regional differences]{.underline}](#regional-differences)
+[[Regional differences]](#regional-differences)
 
 [[Sexual assault and domestic
-violence]{.underline}](#sexual-assault-and-domestic-violence)
+violence]](#sexual-assault-and-domestic-violence)
 
 [[Sexual imagery and
-language]{.underline}](#sexual-imagery-and-language)
+language]](#sexual-imagery-and-language)
 
-[[Single-source Moments]{.underline}](#single-source-moments)
+[[Single-source Moments]](#single-source-moments)
 
-[[Spoilers]{.underline}](#spoilers)
+[[Spoilers]](#spoilers)
 
-[[Sports]{.underline}](#sports)
+[[Sports]](#sports)
 
-> [[Soccer/football]{.underline}](#soccerfootball)
+> [[Soccer/football]](#soccerfootball)
 
-[[Suicide and self-harm]{.underline}](#suicide-and-self-harm)
+[[Suicide and self-harm]](#suicide-and-self-harm)
 
-[[Terrorism]{.underline}](#terrorism)
+[[Terrorism]](#terrorism)
 
-[[Titles and descriptions]{.underline}](#titles-and-descriptions)
+[[Titles and descriptions]](#titles-and-descriptions)
 
-[[Translations]{.underline}](#translations)
+[[Translations]](#translations)
 
-[[Tweet is the word]{.underline}](#tweet-is-the-word)
+[[Tweet is the word]](#tweet-is-the-word)
 
-[[Verbs]{.underline}](#verbs)
+[[Verbs]](#verbs)
 
-[[Weather]{.underline}](#weather)
+[[Weather]](#weather)
 
-> [[Temperature]{.underline}](#temperature)
+> [[Temperature]](#temperature)
 >
 > [[Storms, hurricanes, and
-> typhoons]{.underline}](#storms-hurricanes-and-typhoons)
+> typhoons]](#storms-hurricanes-and-typhoons)
 >
-> [[Earthquakes]{.underline}](#earthquakes)
+> [[Earthquakes]](#earthquakes)
 
 The goal of Moments is to showcase the very best of what's happening on
 Twitter --- the amazing conversations and memes, the breaking news and
@@ -162,7 +162,7 @@ the Tweet, any media, and the avatar and username of the poster.
     > potentially sensitive content.
 
 This style guide is designed to complement the existing [[curation
-policies]{.underline}](https://about.twitter.com/company/moments-guidelines)
+policies]](https://about.twitter.com/company/moments-guidelines)
 that help our curation team create engaging, factual, and impartial
 content that can resonate globally. It is meant to be a guide only: We
 may change the guide or deviate from it, from time to time.
@@ -197,19 +197,19 @@ and U.K.
 #### Active shooter reports
 
 The [[Department of Homeland Security
-defines]{.underline}](https://www.dhs.gov/xlibrary/assets/active_shooter_booklet.pdf)
+defines]](https://www.dhs.gov/xlibrary/assets/active_shooter_booklet.pdf)
 an active shooter as "an individual actively engaged in killing or
 attempting to kill people in a confined and populated area; in most
 cases, active shooters use firearms(s) and there is no pattern or method
 to their selection of victims." It notes that these incidents are
 unpredictable, evolve quickly and are normally over in 10 to 15
 minutes~~.~~ ([[The DHS pamphlet is also available in
-Spanish]{.underline}](https://www.dhs.gov/sites/default/files/publications/active-shooter-pamphlet-spanish-508.pdf)).
+Spanish]](https://www.dhs.gov/sites/default/files/publications/active-shooter-pamphlet-spanish-508.pdf)).
 
 This term is often used incorrectly in breaking news situations, most
 often to describe reports of shots fired. Misusing the term active
 shooter,
-[[Factal]{.underline}](https://blog.factal.com/2019/03/not-an-active-shooter-how-abusing-the-term-fuels-more-fear/)
+[[Factal]](https://blog.factal.com/2019/03/not-an-active-shooter-how-abusing-the-term-fuels-more-fear/)
 says, "needlessly legitimizes and escalates a situation," including
 increasing calls to police and fuelling panic among those nearby and
 concerned who are following along.
@@ -308,7 +308,7 @@ Our mission is to provide quality content and context to help people
 judge the accuracy of the information that they're seeing.
 
 Misinformation comes in many forms, including, [[according to
-UNESCO]{.underline}](http://unesdoc.unesco.org/images/0026/002655/265552E.pdf):
+UNESCO]](http://unesdoc.unesco.org/images/0026/002655/265552E.pdf):
 
 -   Satire and parody: no intent to cause harm but potential to fool
 
@@ -339,7 +339,7 @@ verification and offer very clear attribution.
 
 Do not repeat the false claim in the title and description. As [[First
 Draft
-explains]{.underline}](https://medium.com/1st-draft/5-lessons-for-reporting-in-an-age-of-disinformation-9d98f0441722),
+explains]](https://medium.com/1st-draft/5-lessons-for-reporting-in-an-age-of-disinformation-9d98f0441722),
 "It doesn't matter if the 850 word article provides all the context and
 explanation to debunk or explain why a narrative or claim is false, if
 the 80 character version of that context is misleading, it's all for
@@ -349,7 +349,7 @@ Be cautious of repeating unfamiliar phrases used in the misinformation,
 as these keywords may be strategically created to drive people to
 discover more misinformation. You can learn more about that phenomenon,
 with the example of "crisis actors," from [[the Data & Society Research
-Institute]{.underline}](https://points.datasociety.net/media-manipulation-strategic-amplification-and-responsible-journalism-95f4d611f462).
+Institute]](https://points.datasociety.net/media-manipulation-strategic-amplification-and-responsible-journalism-95f4d611f462).
 
 #### Dates
 
@@ -373,7 +373,7 @@ Please style decades as the numeral followed by an "s," such as the 60s,
 
 In breaking and developing news situations, we should be clear about the
 degree to which information has been confirmed, along with the sources
-of that information (see [[Attribution]{.underline}](#attribution)). We
+of that information (see [[Attribution]](#attribution)). We
 do not need to include "more to come," or "stay here for updates" in our
 descriptions, but we should update the title and description as the
 situation develops.
@@ -395,11 +395,11 @@ Please refer to people the way they self-identify.~~,~~ For example,
 some people with hearing impairments identify as Deaf, which encompasses
 identity and culture, instead of deaf, which means someone with limited
 hearing. ([[Read more about that distinction
-here]{.underline}](https://www.verywell.com/deaf-culture-big-d-small-d-1046233)).
+here]](https://www.verywell.com/deaf-culture-big-d-small-d-1046233)).
 
 For more, please visit the [[National Center on Disability and
-Journalism's style]{.underline}
-[guide]{.underline}](http://ncdj.org/style-guide/), which has an
+Journalism's style]
+[guide]](http://ncdj.org/style-guide/), which has an
 alphabetized list of terms and considerations.
 
 #### Disputed claims
@@ -432,7 +432,7 @@ variants, while the largest tournament is Evo, focusing on a range of
 fighting games.
 
 We give video game titles take the same treatment as [[movie and book
-titles]{.underline}](#books-films-shows-and-albums), with title case but
+titles]](#books-films-shows-and-albums), with title case but
 no italics or quotation marks.
 
 #### Gendered terms
@@ -482,7 +482,7 @@ experts, we help our readers draw their own conclusions.
 #### Homelessness
 
 We aim to use [[people-first
-language]{.underline}](https://www.usich.gov/news/people-experience-homelessness-they-arent-defined-by-it/)
+language]](https://www.usich.gov/news/people-experience-homelessness-they-arent-defined-by-it/)
 in our curation to avoid labelling or inviting judgement on people based
 on their situation. In lieu of calling people homeless, we should use
 "people experiencing homelessness."
@@ -535,7 +535,7 @@ framing, and the choice of images.
 #### Immigration status 
 
 Following the lead of [[the Associated
-Press]{.underline}](https://blog.ap.org/announcements/illegal-immigrant-no-more)
+Press]](https://blog.ap.org/announcements/illegal-immigrant-no-more)
 and others, we should only use the term "illegal" to describe actions
 related to immigration, not to describe people. We avoid using the term
 "illegal immigrant" unless it is part of a direct quote, choosing
@@ -548,7 +548,7 @@ we should also share the person's individual circumstances, such as
 whether they overstayed a visa or crossed a border illegally.
 
 The term "migrant" is [[generally considered a neutral
-term]{.underline}](https://www.bbc.com/news/magazine-34061097) to
+term]](https://www.bbc.com/news/magazine-34061097) to
 describe a person voluntarily moving from one region or country to
 another without implying anything about their legal status.
 
@@ -571,7 +571,7 @@ although it contains elements of all three. Nor is it the same as simply
 being fair -- although it is unlikely you will be impartial without
 being fair-minded. At its simplest, it means not taking sides.
 Impartiality is about providing a breadth of view."*
-([[BBC]{.underline}](https://www.bbc.co.uk/academy/en/articles/art20130702112133788)).
+([[BBC]](https://www.bbc.co.uk/academy/en/articles/art20130702112133788)).
 
 We try to help our readers access the information they need to make an
 informed choice about their own opinion. We believe that impartial
@@ -580,7 +580,7 @@ arguments, facts, and views on any issue without judg~~e~~ment or bias,
 and we aim to do so at all times.
 
 To take a page from the [[CBC's Journalistic Standards and
-Practices]{.underline}](http://www.cbc.radio-canada.ca/en/reporting-to-canadians/acts-and-policies/programming/journalism/),
+Practices]](http://www.cbc.radio-canada.ca/en/reporting-to-canadians/acts-and-policies/programming/journalism/),
 "on issues of controversy, we ensure that divergent views are reflected
 respectfully, taking into account their relevance to the debate and how
 widely held these views are."
@@ -620,7 +620,7 @@ identified, we should explain why in the description or an annotation.
 
 This group goes by many names, including IS, ISIS, ISIL, and Daesh. We
 follow the [[BBC's
-convention]{.underline}](http://www.bbc.com/news/world-middle-east-27994277)
+convention]](http://www.bbc.com/news/world-middle-east-27994277)
 of referring to it as "the Islamic State group" or "self-styled Islamic
 State" in the first instance and IS for subsequent mentions and titles.
 
@@ -705,7 +705,7 @@ own, repeating and trending on the platform. Some become icons (Salt
 Bae, tea lizard), while others fade quickly into obscurity.
 
 Not everything that is being shared or remixed is [[a
-meme]{.underline}](https://www.smithsonianmag.com/arts-culture/what-defines-a-meme-1904778/).
+meme]](https://www.smithsonianmag.com/arts-culture/what-defines-a-meme-1904778/).
 We should be seeing a critical mass of repeated use, with a common
 thread between the posts, before we label something a meme.
 
@@ -803,7 +803,7 @@ or to modify a term, a 15-point game.
 
 We default to 's for all singular possessive nouns (Chris's), but follow
 [[Buzzfeed's
-style]{.underline}](https://www.buzzfeed.com/emmyf/buzzfeed-style-guide?utm_term=.ndEjl12aVr#.hx0k1lB8QZ)
+style]](https://www.buzzfeed.com/emmyf/buzzfeed-style-guide?utm_term=.ndEjl12aVr#.hx0k1lB8QZ)
 on some exceptions:
 
 -   Proper nouns ending in "s" that make a "z" sound
@@ -873,9 +873,9 @@ tag, when appropriate.\
 \
 For further reading, please see [[Level Up's guidance on covering
 domestic
-violence]{.underline}](https://www.welevelup.org/media-guidelines) and
+violence]](https://www.welevelup.org/media-guidelines) and
 [[the Dart Center's guide to reporting on sexual
-violence]{.underline}](https://dartcenter.org/content/reporting-on-sexual-violence#.UvAJXXdN5mk).
+violence]](https://dartcenter.org/content/reporting-on-sexual-violence#.UvAJXXdN5mk).
 
 #### Sexual imagery and language
 
@@ -926,11 +926,11 @@ be called football.
 #### Suicide and self-harm
 
 [[Mental health advocates
-recommend]{.underline}](https://www.diversitystyleguide.com/glossary/suicide/)
+recommend]](https://www.diversitystyleguide.com/glossary/suicide/)
 referring to deaths by suicide as \"died by suicide,\" rather than using
 terms like \"committed suicide\" or \"victim of suicide.\" The
 [[American Foundation for Suicide Prevention offers further
-guidance]{.underline}](https://chapterland.org/wp-content/uploads/sites/13/2018/06/13763_TopTenNotes_Reporting_on_Suicide_Flyer_m1.pdf)
+guidance]](https://chapterland.org/wp-content/uploads/sites/13/2018/06/13763_TopTenNotes_Reporting_on_Suicide_Flyer_m1.pdf)
 on reporting on suicide.
 
 #### Terrorism
