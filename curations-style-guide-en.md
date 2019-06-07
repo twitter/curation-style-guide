@@ -200,7 +200,7 @@ attempting to kill people in a confined and populated area; in most
 cases, active shooters use firearms(s) and there is no pattern or method
 to their selection of victims." It notes that these incidents are
 unpredictable, evolve quickly and are normally over in 10 to 15
-minutes~~.~~ ([The DHS pamphlet is also available in Spanish](https://www.dhs.gov/sites/default/files/publications/active-shooter-pamphlet-spanish-508.pdf)).
+minutes. ([The DHS pamphlet is also available in Spanish](https://www.dhs.gov/sites/default/files/publications/active-shooter-pamphlet-spanish-508.pdf)).
 
 This term is often used incorrectly in breaking news situations, most
 often to describe reports of shots fired. Misusing the term active
@@ -223,8 +223,8 @@ expertise.
 
 Anything written in an annotation should be easily verifiable or
 attributable. For example, by including the original-language Tweet
-alongside a translation in an annotation.\
-\
+alongside a translation in an annotation.
+
 We do not want annotations to repurpose or repackage other people's
 content; we always prefer to use Tweets. When using information that is
 not available in Tweets, paraphrase or quote as necessary, but try to
@@ -241,8 +241,8 @@ appear within the Moment.
 When a fact is supported by three or fewer sources, we attribute to the
 source, by name, in the title, or description. Once it has been
 confirmed by more than three sources, the "reports" and attribution
-references may be removed. ~~\
-~~
+references may be removed.
+
 
 Instead of using "reportedly," "according to sources" or "it is believed
 to be" in our Moments, it is preferable to attribute the information to
@@ -255,7 +255,7 @@ create Moments just focused on bodily functions, especially when it
 isn't being widely discussed.
 
 If we do make a Moment like this, please consider the context in
-choosing our words and tone, and do not ~~to~~ feature the gross content
+choosing our words and tone, and do not to feature the gross content
 in the cover image.
 
 ### Brands
@@ -558,7 +558,7 @@ Impartiality is about providing a breadth of view."*
 We try to help our readers access the information they need to make an
 informed choice about their own opinion. We believe that impartial
 curation means not taking sides and taking care to provide the relevant
-arguments, facts, and views on any issue without judg~~e~~ment or bias,
+arguments, facts, and views on any issue without judgement or bias,
 and we aim to do so at all times.
 
 To take a page from the [CBC's Journalistic Standards and
@@ -617,10 +617,10 @@ We should only reference an individual's sexual orientation when it is
 essential to understanding the conversation. Nothing in a Moment should
 question or devalue a person's gender expression, identity, or sex.
 
-When referring to an individual, use their stated identifiers. If we
-don't know their correct pronoun, please use the singular they or them.
-We do ~~try~~ not ~~to~~ use quotation marks around names, or pronouns,
-used for transgender or non-binary people.
+When referring to an individual, use their stated identifiers. If we don't know
+their correct pronoun, please use the singular they or them.  We do try not to
+use quotation marks around names, or pronouns, used for transgender or
+non-binary people.
 
 Gay is the preferred term to describe men and women attracted to the
 same sex, though lesbian is more commonly used for women. We do not use
@@ -642,20 +642,19 @@ anyone who feels they don't fit into their assigned sex or gender. Drag
 queens/kings are not necessarily transgender, though some trans people
 are also drag performers.
 
-We should not ~~to~~ use "trans" or "transgender" as a noun. "Trans" is
-most often used as an abbreviation for transgender but it can also mean
-transsexual, transvestite or other terms with potentially negative
-connotations, so it should not be used without a signifier.
+We should not use "trans" or "transgender" as a noun. "Trans" is most often
+used as an abbreviation for transgender but it can also mean transsexual,
+transvestite or other terms with potentially negative connotations, so it
+should not be used without a signifier.
 
-We should respect people's gender identities. Thus, we ~~try to~~ refer
+We should respect people's gender identities. Thus, we try to refer
 to transgender women as women, transgender men as men, people who
 identify as non-binary (sometimes "NB" or "enbie") as neither a man nor
 a woman. We avoid using "trans man" or "trans woman" (never
 "transman"/"transwoman") unless someone self-identifies as such.
 
-We do ~~try~~ not ~~to~~ use quotation marks around names or pronouns.
-And we should avoid referring to a person by their "dead"
-(pre-transition) name.
+We do try not to use quotation marks around names or pronouns. And we should
+avoid referring to a person by their "dead" (pre-transition) name.
 
 People who aren't transgender may be termed as "cis" or "cisgendered."
 Some LGBTQ people object to "cis" as an oversimplification, while some
@@ -765,10 +764,9 @@ in curation across markets.
 If there is a full sentence inside the parentheses or quote, the
 period/full stop should be inside. If only a sentence fragment or
 portion of the sentence is inside the brackets, the period should be
-outside. For example~~:~~, *We have spelling differences between
-markets. (The UK and Canada spell travelled with two Ls.)* versus *There
-are punctuation differences between markets (the UK and Canada spell
-travelled with two Ls).*
+outside. For example: *We have spelling differences between markets. (The UK
+and Canada spell travelled with two Ls.)* versus *There are punctuation
+differences between markets (the UK and Canada spell travelled with two Ls).*
 
 ### Ellipses
 
@@ -935,7 +933,7 @@ words or 280 characters, while descriptions should generally be about
 two sentences.
 
 We do not use periods at the end of titles. We try not to start a title
-with "Report,~~:~~" instead use it in a sentence or attribute the
+with "Report:" instead use it in a sentence or attribute the
 report.
 
 We should not use a comma in a title to replace the word "and." This is
@@ -1010,7 +1008,7 @@ Northeast Pacific, while cyclones form over the South Pacific and the
 Indian Ocean. Typhoons form over the Northwest Pacific Ocean. Hurricane
 categories are based on wind speeds. Those ranked as category three and
 above are considered major storms. When calling out wind speeds in a
-global Moment, we should provide both kilomet~~r~~es per hour and miles
+global Moment, we should provide both kilometres per hour and miles
 per hour. For storms in the US and UK, lead with miles, like 160 mph
 (260 kph), while global storms should be formatted with kilometres per
 hour first, so 260 kph (160 mph).
