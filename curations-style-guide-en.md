@@ -137,35 +137,33 @@ Moments are intended to feature compelling, original and diverse
 content. When selecting Tweets for a Moment, we consider the content of
 the Tweet, any media, and the avatar and username of the poster.
 
--   **Impartiality**: We will use data-driven decision making when
-    > choosing Tweets around controversial topics, and highlight the
-    > Tweets already receiving the most engagement on Twitter. On topics
-    > which reflect public debate, we will select Tweets that represent
-    > many sides of the conversation, where feasible. Twitter curators
-    > should not advance their own viewpoints, but rather reflect the
-    > discussion as it appears on our platform.
+-   **Impartiality**: We will use data-driven decision making when choosing
+    Tweets around controversial topics, and highlight the Tweets already
+    receiving the most engagement on Twitter. On topics which reflect public
+    debate, we will select Tweets that represent many sides of the
+    conversation, where feasible. Twitter curators should not advance their own
+    viewpoints, but rather reflect the discussion as it appears on our
+    platform.
 
--   **Accuracy:** When dealing with news or newsworthy conversations, we
-    > want to highlight quality Tweets that represent accurate
-    > information.
+-   **Accuracy:** When dealing with news or newsworthy conversations, we want
+    to highlight quality Tweets that represent accurate information.
 
--   **Corrections:** If we become aware that we have highlighted content
-    > that turns out to be inaccurate, we will update the Moment with a
-    > visible correction, and issue an updated Tweet. In rare cases, we
-    > may delete the Moment and post a retraction.
+-   **Corrections:** If we become aware that we have highlighted content that
+    turns out to be inaccurate, we will update the Moment with a visible
+    correction, and issue an updated Tweet. In rare cases, we may delete the
+    Moment and post a retraction.
 
--   **Standards**: Profanity, violence, nudity, and other types of
-    > potentially sensitive content should be avoided, except where it
-    > is necessary to tell a newsworthy story. We will not include
-    > content that promotes or depicts illegal conduct. We will provide
-    > individuals with clear notice that a Moment may contain
-    > potentially sensitive content.
+-   **Standards**: Profanity, violence, nudity, and other types of potentially
+    sensitive content should be avoided, except where it is necessary to tell a
+    newsworthy story. We will not include content that promotes or depicts
+    illegal conduct. We will provide individuals with clear notice that a
+    Moment may contain potentially sensitive content.
 
     This style guide is designed to complement the existing [curation
-    policies](https://about.twitter.com/company/moments-guidelines)
-that help our curation team create engaging, factual, and impartial
-content that can resonate globally. It is meant to be a guide only: We
-may change the guide or deviate from it, from time to time.
+    policies](https://about.twitter.com/company/moments-guidelines) that help
+    our curation team create engaging, factual, and impartial content that can
+    resonate globally. It is meant to be a guide only: We may change the guide
+    or deviate from it, from time to time.
 
 #### The Golden Rule
 
