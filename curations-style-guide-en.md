@@ -385,12 +385,15 @@ Parkinson's disease," or "battling cancer," opting instead for "has
 Parkinson's disease," or "has cancer." We may use mental illness as a
 general term, but we prefer to use specific conditions when possible.
 
-Please refer to people the way they self-identify.~~,~~ For example,
-some people with hearing impairments identify as Deaf, which encompasses
-identity and culture, instead of deaf, which means someone with limited
-hearing. ([Read more about that distinction here](https://www.verywell.com/deaf-culture-big-d-small-d-1046233)).
+Please refer to people the way they self-identify. For example, some people
+with hearing impairments identify as Deaf, which encompasses identity and
+culture, instead of deaf, which means someone with limited hearing. ([Read more
+about that distinction
+here](https://www.verywell.com/deaf-culture-big-d-small-d-1046233)).
 
-For more, please visit the [National Center on Disability and Journalism's style] [guide](http://ncdj.org/style-guide/), which has an alphabetized list of terms and considerations.
+For more, please visit the [National Center on Disability and Journalism's
+style guide](http://ncdj.org/style-guide/), which has an alphabetized list of
+terms and considerations.
 
 #### Disputed claims
 
